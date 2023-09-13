@@ -21,6 +21,43 @@
     xdg-desktop-portal-wlr
     wob
     jamesdsp
+    librewolf
+    tenacity
+    betterdiscord-installer
+    blender
+    btop
+    butler
+    clipman
+    clang
+    corectrl
+    discord
+    gimp
+    godot_4
+    goverlay
+    heroic
+    inkscape
+    libreoffice
+    luarocks
+    lua-language-server
+    mangohud
+    marksman
+    meson
+    mold
+    mpd
+    mpv
+    neovim
+    ninja
+    okular
+    prismlauncher
+    rustup
+    shotcut
+    steam
+    unzip
+    viewnior
+    wine
+    yt-dlp
+    yuzu
+    neofetch
   ];
   
   home.file = {
