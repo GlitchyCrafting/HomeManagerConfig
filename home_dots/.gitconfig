@@ -1,0 +1,9 @@
+[init]
+	defaultBranch = main
+[user]
+	email = glitchycrafting@gmail.com
+	name = GlitchyCrafting
+[credential]
+	helper = cache
+[protocol "file"]
+	allow = always

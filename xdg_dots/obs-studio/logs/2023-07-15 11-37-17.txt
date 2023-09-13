@@ -1,0 +1,278 @@
+11:37:17.939: Platform: Wayland
+11:37:17.939: CPU Name: AMD Ryzen 5 5600X 6-Core Processor
+11:37:17.939: CPU Speed: 2200.000MHz
+11:37:17.939: Physical Cores: 6, Logical Cores: 12
+11:37:17.939: Physical Memory: 15872MB Total, 10008MB Free
+11:37:17.939: Kernel Version: Linux 6.4.3-zen1-1-zen
+11:37:17.939: Distribution: "Arch Linux" Unknown
+11:37:17.940: Desktop Environment: sway (sway)
+11:37:17.940: Session Type: wayland
+11:37:17.942: Qt Version: 6.5.1 (runtime), 6.5.1 (compiled)
+11:37:17.942: Portable mode: false
+11:37:17.983: OBS 29.1.3-1 (linux)
+11:37:17.983: ---------------------------------
+11:37:17.983: ---------------------------------
+11:37:17.983: audio settings reset:
+11:37:17.983: 	samples per sec: 48000
+11:37:17.983: 	speakers:        2
+11:37:17.983: 	max buffering:   960 milliseconds
+11:37:17.983: 	buffering type:  dynamically increasing
+11:37:17.990: ---------------------------------
+11:37:17.990: Initializing OpenGL...
+11:37:17.990: Using EGL/Wayland
+11:37:18.036: Initialized EGL 1.5
+11:37:18.065: Loading up OpenGL on adapter AMD AMD Radeon RX 6700 XT (navi22, LLVM 15.0.7, DRM 3.52, 6.4.3-zen1-1-zen)
+11:37:18.065: OpenGL loaded successfully, version 4.6 (Core Profile) Mesa 23.1.3, shading language 4.60
+11:37:18.104: ---------------------------------
+11:37:18.104: video settings reset:
+11:37:18.104: 	base resolution:   3840x2160
+11:37:18.104: 	output resolution: 3840x2160
+11:37:18.104: 	downscale filter:  Bicubic
+11:37:18.104: 	fps:               24000/1001
+11:37:18.104: 	format:            NV12
+11:37:18.104: 	YUV mode:          Rec. 709/Full
+11:37:18.104: NV12 texture support not available
+11:37:18.104: P010 texture support not available
+11:37:18.108: Audio monitoring device:
+11:37:18.108: 	name: Monitor of Starship/Matisse HD Audio Controller Analog Stereo
+11:37:18.108: 	id: alsa_output.pci-0000_0f_00.4.analog-stereo.monitor
+11:37:18.108: ---------------------------------
+11:37:18.117: Failed to load 'en-US' text for module: 'decklink-captions.so'
+11:37:18.128: Failed to load 'en-US' text for module: 'decklink-output-ui.so'
+11:37:18.137: A DeckLink iterator could not be created.  The DeckLink drivers may not be installed
+11:37:18.137: Failed to initialize module 'decklink.so'
+11:37:18.353: [pipewire] Available captures:
+11:37:18.353: [pipewire]     - Desktop capture
+11:37:18.382: [obs-browser]: Version 2.21.1
+11:37:18.382: [obs-browser]: CEF Version 103.0.5060.134 (runtime), 103.0.0-5060-shared-textures_143.2591+g4204d54+chromium-103.0.5060.134 (compiled)
+11:37:18.877: VAAPI: Failed to initialize display in vaapi_device_h264_supported
+11:37:18.877: FFmpeg VAAPI H264 encoding not supported
+11:37:18.878: VAAPI: Failed to initialize display in vaapi_device_hevc_supported
+11:37:18.878: FFmpeg VAAPI HEVC encoding not supported
+11:37:18.934: [obs-websocket] [obs_module_load] you can haz websockets (Version: 5.2.3 | RPC Version: 1)
+11:37:18.934: [obs-websocket] [obs_module_load] Qt version (compile-time): 6.5.1 | Qt version (run-time): 6.5.1
+11:37:18.934: [obs-websocket] [obs_module_load] Linked ASIO Version: 102800
+11:37:18.934: [obs-websocket] [Config::Load] (FirstLoad) Generating new server password.
+11:37:18.940: [obs-websocket] [obs_module_load] Module loaded.
+11:37:18.965: ---------------------------------
+11:37:18.965:   Loaded Modules:
+11:37:18.965:     text-freetype2.so
+11:37:18.965:     rtmp-services.so
+11:37:18.965:     obs-x264.so
+11:37:18.965:     obs-websocket.so
+11:37:18.965:     obs-vst.so
+11:37:18.965:     obs-transitions.so
+11:37:18.965:     obs-outputs.so
+11:37:18.965:     obs-filters.so
+11:37:18.965:     obs-ffmpeg.so
+11:37:18.965:     obs-browser.so
+11:37:18.965:     linux-v4l2.so
+11:37:18.965:     linux-pulseaudio.so
+11:37:18.965:     linux-pipewire.so
+11:37:18.965:     linux-jack.so
+11:37:18.965:     linux-capture.so
+11:37:18.965:     linux-alsa.so
+11:37:18.965:     image-source.so
+11:37:18.965:     frontend-tools.so
+11:37:18.965:     decklink-output-ui.so
+11:37:18.965:     decklink-captions.so
+11:37:18.965: ---------------------------------
+11:37:18.965: ==== Startup complete ===============================================
+11:37:18.967: Encoder ID 'libfdk_aac' not found
+11:37:18.967: Encoder ID 'libfdk_aac' not found
+11:37:18.967: Encoder ID 'libfdk_aac' not found
+11:37:18.967: Encoder ID 'libfdk_aac' not found
+11:37:18.967: Encoder ID 'libfdk_aac' not found
+11:37:18.967: Encoder ID 'libfdk_aac' not found
+11:37:18.967: Encoder ID 'libfdk_aac' not found
+11:37:18.967: Encoder ID 'libfdk_aac' not found
+11:37:18.990: All scene data cleared
+11:37:18.990: ------------------------------------------------
+11:37:18.994: pulse-input: Server name: 'PulseAudio (on PipeWire 0.3.74) 15.0.0'
+11:37:18.994: pulse-input: Audio format: s32le, 48000 Hz, 2 channels
+11:37:18.994: pulse-input: Started recording from 'alsa_output.pci-0000_0f_00.4.analog-stereo.monitor' (default)
+11:37:18.995: pulse-input: Server name: 'PulseAudio (on PipeWire 0.3.74) 15.0.0'
+11:37:18.995: pulse-input: Audio format: s16le, 48000 Hz, 1 channels
+11:37:18.995: pulse-input: Started recording from 'alsa_input.usb-BLUE_MICROPHONE_Blue_Snowball_797_2020_08_17_96214-00.mono-fallback'
+11:37:18.996: PipeWire initialized
+11:37:18.996: PipeWire initialized
+11:37:18.997: PipeWire initialized
+11:37:18.997: v4l2-input: Start capture from /dev/video1
+11:37:18.997: v4l2-input: Unable to open device
+11:37:18.997: v4l2-input: Initialization failed, errno: No such file or directory
+11:37:18.999: Switched to scene 'Main'
+11:37:18.999: ------------------------------------------------
+11:37:18.999: Loaded scenes:
+11:37:18.999: - scene 'Main':
+11:37:18.999:     - source: 'Mic' (pulse_input_capture)
+11:37:18.999:         - filter: 'Noise Suppression' (noise_suppress_filter_v2)
+11:37:18.999:     - source: 'Output' (pulse_output_capture)
+11:37:18.999:     - source: 'Display1' (pipewire-desktop-capture-source)
+11:37:18.999:     - source: 'Display2' (pipewire-desktop-capture-source)
+11:37:18.999:     - source: 'Display3' (pipewire-desktop-capture-source)
+11:37:18.999:     - source: 'Cam' (v4l2_input)
+11:37:18.999: - scene 'SingleScreen':
+11:37:18.999:     - source: 'Mic' (pulse_input_capture)
+11:37:18.999:         - filter: 'Noise Suppression' (noise_suppress_filter_v2)
+11:37:18.999:     - source: 'Output' (pulse_output_capture)
+11:37:18.999:     - source: 'Display1' (pipewire-desktop-capture-source)
+11:37:18.999: - scene 'SingleScreenWithCamera':
+11:37:18.999:     - source: 'Mic' (pulse_input_capture)
+11:37:18.999:         - filter: 'Noise Suppression' (noise_suppress_filter_v2)
+11:37:18.999:     - source: 'Output' (pulse_output_capture)
+11:37:18.999:     - source: 'Display1' (pipewire-desktop-capture-source)
+11:37:18.999:     - source: 'Cam' (v4l2_input)
+11:37:18.999: - scene 'Discord':
+11:37:18.999:     - source: 'Mic' (pulse_input_capture)
+11:37:18.999:         - filter: 'Noise Suppression' (noise_suppress_filter_v2)
+11:37:18.999:     - source: 'Output' (pulse_output_capture)
+11:37:18.999:     - source: 'Display1' (pipewire-desktop-capture-source)
+11:37:18.999: - scene 'Camera':
+11:37:18.999:     - source: 'Mic' (pulse_input_capture)
+11:37:18.999:         - filter: 'Noise Suppression' (noise_suppress_filter_v2)
+11:37:18.999:     - source: 'Cam' (v4l2_input)
+11:37:18.999: ------------------------------------------------
+11:37:19.067: [pipewire] Screencast session created
+11:37:19.067: [pipewire] Screencast session created
+11:37:19.067: [pipewire] Screencast session created
+11:37:19.152: [pipewire] Asking for desktop
+11:37:19.152: [pipewire] Asking for desktop
+11:37:19.152: [pipewire] Asking for desktop
+11:37:19.161: [pipewire] desktop selected, setting up screencast
+11:37:19.169: [pipewire] desktop selected, setting up screencast
+11:37:19.175: [pipewire] desktop selected, setting up screencast
+11:37:19.181: [pipewire] Server version: 0.3.74
+11:37:19.181: [pipewire] Library version: 0.3.74
+11:37:19.181: [pipewire] Header version: 0.3.74
+11:37:19.190: [pipewire] Created stream 0x55bed5bdcdf0
+11:37:19.190: [pipewire] Stream 0x55bed5bdcdf0 state: "connecting" (error: none)
+11:37:19.190: [pipewire] Playing stream 0x55bed5bdcdf0
+11:37:19.190: [pipewire] Stream 0x55bed5bdcdf0 state: "paused" (error: none)
+11:37:19.191: [pipewire] Server version: 0.3.74
+11:37:19.191: [pipewire] Library version: 0.3.74
+11:37:19.191: [pipewire] Header version: 0.3.74
+11:37:19.191: [pipewire] Created stream 0x55bed5b91ff0
+11:37:19.191: [pipewire] Stream 0x55bed5b91ff0 state: "connecting" (error: none)
+11:37:19.191: [pipewire] Playing stream 0x55bed5b91ff0
+11:37:19.191: [pipewire] Stream 0x55bed5b91ff0 state: "paused" (error: none)
+11:37:19.192: [pipewire] Server version: 0.3.74
+11:37:19.192: [pipewire] Library version: 0.3.74
+11:37:19.192: [pipewire] Header version: 0.3.74
+11:37:19.192: [pipewire] Created stream 0x55bed548b6b0
+11:37:19.192: [pipewire] Stream 0x55bed548b6b0 state: "connecting" (error: none)
+11:37:19.192: [pipewire] Playing stream 0x55bed548b6b0
+11:37:19.193: [pipewire] Stream 0x55bed548b6b0 state: "paused" (error: none)
+11:37:19.199: [pipewire] Negotiated format:
+11:37:19.199: [pipewire] Negotiated format:
+11:37:19.199: [pipewire] Negotiated format:
+11:37:19.199: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+11:37:19.199: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+11:37:19.199: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+11:37:19.199: [pipewire]     Modifier: 0x0
+11:37:19.199: [pipewire]     Modifier: 0x0
+11:37:19.199: [pipewire]     Modifier: 0x0
+11:37:19.199: [pipewire]     Size: 1920x1080
+11:37:19.199: [pipewire]     Size: 1600x900
+11:37:19.199: [pipewire]     Framerate: 0/1
+11:37:19.199: [pipewire]     Size: 1920x1080
+11:37:19.199: [pipewire]     Framerate: 0/1
+11:37:19.199: [pipewire]     Framerate: 0/1
+11:37:19.200: [pipewire] Negotiated format:
+11:37:19.200: [pipewire] Negotiated format:
+11:37:19.200: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+11:37:19.200: [pipewire] Negotiated format:
+11:37:19.200: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+11:37:19.200: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+11:37:19.200: [pipewire]     Modifier: 0x20000001896bb03
+11:37:19.200: [pipewire]     Modifier: 0x20000001896bb03
+11:37:19.200: [pipewire]     Modifier: 0x20000001896bb03
+11:37:19.200: [pipewire]     Size: 1920x1080
+11:37:19.200: [pipewire]     Size: 1920x1080
+11:37:19.200: [pipewire]     Framerate: 0/1
+11:37:19.200: [pipewire]     Size: 1600x900
+11:37:19.200: [pipewire]     Framerate: 0/1
+11:37:19.200: [pipewire]     Framerate: 0/1
+11:37:19.201: [pipewire] Stream 0x55bed5b91ff0 state: "streaming" (error: none)
+11:37:19.201: [pipewire] Stream 0x55bed5bdcdf0 state: "streaming" (error: none)
+11:37:19.201: [pipewire] Stream 0x55bed548b6b0 state: "streaming" (error: none)
+11:37:19.583: adding 21 milliseconds of audio buffering, total audio buffering is now 21 milliseconds (source: Output)
+11:37:19.583: 
+11:37:19.647: adding 42 milliseconds of audio buffering, total audio buffering is now 64 milliseconds (source: Mic)
+11:37:19.647: 
+11:37:38.697: [obs-websocket] [SettingsDialog::SaveFormData] A setting was changed which requires a server restart.
+11:37:38.697: [obs-websocket] [WebSocketServer::Stop] Call to Stop() but the server is not listening.
+11:37:38.697: [obs-websocket] [WebSocketServer::Start] Not locked to IPv4 bindings
+11:37:38.698: [obs-websocket] [WebSocketServer::ServerRunner] IO thread started.
+11:37:38.698: [obs-websocket] [WebSocketServer::Start] Server started successfully on port 4444. Possible connect address: 192.168.254.28
+11:37:55.035: [obs-websocket] [WebSocketServer::onOpen] New WebSocket client has connected from [::ffff:127.0.0.1]:54006
+11:37:55.035: [obs-websocket] [WebSocketServer::onMessage] Client [::ffff:127.0.0.1]:54006 appears to be running a pre-5.0.0 protocol.
+11:37:55.035: [obs-websocket] [WebSocketServer::onClose] WebSocket client `[::ffff:127.0.0.1]:54006` has disconnected with code `1006` and reason: Connection reset by peer
+11:38:43.402: adding 85 milliseconds of audio buffering, total audio buffering is now 149 milliseconds (source: Mic)
+11:38:43.402: 
+11:39:28.534: [obs-websocket] [WebSocketServer::onOpen] New WebSocket client has connected from [::ffff:192.168.254.28]:39002
+11:39:28.534: [obs-websocket] [WebSocketServer::onMessage] Client [::ffff:192.168.254.28]:39002 appears to be running a pre-5.0.0 protocol.
+11:39:28.535: [obs-websocket] [WebSocketServer::onClose] WebSocket client `[::ffff:192.168.254.28]:39002` has disconnected with code `1006` and reason: Connection reset by peer
+11:43:51.964: Encoder ID 'libfdk_aac' not found
+11:43:51.964: Encoder ID 'libfdk_aac' not found
+11:43:51.964: Settings changed (outputs)
+11:43:51.964: ------------------------------------------------
+11:44:18.320: Number of remaining views: 1
+11:44:18.320: ---------------------------------
+11:44:18.320: video settings reset:
+11:44:18.320: 	base resolution:   3840x2160
+11:44:18.320: 	output resolution: 3840x2160
+11:44:18.320: 	downscale filter:  Bicubic
+11:44:18.320: 	fps:               24000/1001
+11:44:18.320: 	format:            NV12
+11:44:18.320: 	YUV mode:          Rec. 709/Full
+11:44:18.320: NV12 texture support not available
+11:44:18.320: P010 texture support not available
+11:44:18.323: Settings changed (advanced)
+11:44:18.323: ------------------------------------------------
+11:44:33.213: Number of remaining views: 1
+11:44:33.213: ---------------------------------
+11:44:33.213: video settings reset:
+11:44:33.213: 	base resolution:   3840x2160
+11:44:33.213: 	output resolution: 3840x2160
+11:44:33.213: 	downscale filter:  Bicubic
+11:44:33.213: 	fps:               24000/1001
+11:44:33.213: 	format:            NV12
+11:44:33.213: 	YUV mode:          Rec. 709/Full
+11:44:33.213: NV12 texture support not available
+11:44:33.213: P010 texture support not available
+11:44:33.216: Settings changed (advanced)
+11:44:33.216: ------------------------------------------------
+12:01:18.478: [obs-websocket] [SettingsDialog::SaveFormData] A setting was changed which requires a server restart.
+12:01:18.478: [obs-websocket] [WebSocketServer::ServerRunner] IO thread exited.
+12:01:18.478: [obs-websocket] [WebSocketServer::Stop] Server stopped successfully
+12:01:18.479: [obs-websocket] [WebSocketServer::Start] Not locked to IPv4 bindings
+12:01:18.479: [obs-websocket] [WebSocketServer::Start] Server started successfully on port 4444. Possible connect address: 192.168.254.28
+12:01:18.492: [obs-websocket] [WebSocketServer::ServerRunner] IO thread started.
+14:48:58.694: [obs-websocket] [WebSocketServer::onOpen] New WebSocket client has connected from [::1]:54694
+14:48:58.696: [obs-websocket] [WebSocketServer::onClose] WebSocket client `[::1]:54694` has disconnected with code `1006` and reason: End of File
+14:57:54.865: [obs-websocket] [WebSocketServer::onOpen] New WebSocket client has connected from [::1]:44578
+14:57:54.866: [obs-websocket] [WebSocketServer::onClose] WebSocket client `[::1]:44578` has disconnected with code `1006` and reason: End of File
+14:58:15.104: [obs-websocket] [WebSocketServer::onOpen] New WebSocket client has connected from [::1]:52998
+14:58:15.105: [obs-websocket] [WebSocketServer::onClose] WebSocket client `[::1]:52998` has disconnected with code `1006` and reason: End of File
+14:58:18.411: [obs-websocket] [WebSocketServer::onOpen] New WebSocket client has connected from [::1]:53006
+14:58:18.452: [obs-websocket] [WebSocketServer::onClose] WebSocket client `[::1]:53006` has disconnected with code `1006` and reason: End of File
+15:02:02.029: [obs-websocket] [WebSocketServer::onOpen] New WebSocket client has connected from [::1]:49052
+15:02:02.070: [obs-websocket] [WebSocketServer::onClose] WebSocket client `[::1]:49052` has disconnected with code `1006` and reason: End of File
+15:02:03.513: [obs-websocket] [WebSocketServer::onOpen] New WebSocket client has connected from [::1]:49060
+15:02:03.554: [obs-websocket] [WebSocketServer::onClose] WebSocket client `[::1]:49060` has disconnected with code `1006` and reason: End of File
+16:14:47.775: adding 21 milliseconds of audio buffering, total audio buffering is now 170 milliseconds (source: Mic)
+16:14:47.775: 
+16:58:41.978: ==== Shutting down ==================================================
+16:58:41.983: pulse-input: Stopped recording from 'alsa_input.usb-BLUE_MICROPHONE_Blue_Snowball_797_2020_08_17_96214-00.mono-fallback'
+16:58:41.983: pulse-input: Got 771269 packets with 925522800 frames
+16:58:41.983: pulse-input: Stopped recording from 'alsa_output.pci-0000_0f_00.4.analog-stereo.monitor'
+16:58:41.983: pulse-input: Got 771317 packets with 925580400 frames
+16:58:41.983: [pipewire] Stream 0x55bed5b91ff0 state: "paused" (error: none)
+16:58:41.984: [pipewire] Stream 0x55bed5b91ff0 state: "unconnected" (error: none)
+16:58:41.984: [pipewire] Stream 0x55bed548b6b0 state: "paused" (error: none)
+16:58:41.984: [pipewire] Stream 0x55bed548b6b0 state: "unconnected" (error: none)
+16:58:41.985: [pipewire] Stream 0x55bed5bdcdf0 state: "paused" (error: none)
+16:58:42.005: [pipewire] Stream 0x55bed5bdcdf0 state: "unconnected" (error: none)
+16:58:42.017: All scene data cleared
+16:58:42.028: ------------------------------------------------
+16:58:42.102: [obs-websocket] [obs_module_unload] Shutting down...

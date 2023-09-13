@@ -1,0 +1,187 @@
+09:56:38.601: Platform: Wayland
+09:56:38.601: CPU Name: AMD Ryzen 5 5600X 6-Core Processor
+09:56:38.601: CPU Speed: 2200.000MHz
+09:56:38.601: Physical Cores: 6, Logical Cores: 12
+09:56:38.601: Physical Memory: 15872MB Total, 12941MB Free
+09:56:38.601: Kernel Version: Linux 6.4.3-zen1-1-zen
+09:56:38.601: Distribution: "Arch Linux" Unknown
+09:56:38.601: Desktop Environment: Hyprland (sway)
+09:56:38.601: Session Type: wayland
+09:56:38.604: Qt Version: 6.5.1 (runtime), 6.5.1 (compiled)
+09:56:38.604: Portable mode: false
+09:56:38.643: OBS 29.1.3-1 (linux)
+09:56:38.643: ---------------------------------
+09:56:38.643: ---------------------------------
+09:56:38.643: audio settings reset:
+09:56:38.643: 	samples per sec: 48000
+09:56:38.643: 	speakers:        2
+09:56:38.643: 	max buffering:   960 milliseconds
+09:56:38.643: 	buffering type:  dynamically increasing
+09:56:38.645: ---------------------------------
+09:56:38.645: Initializing OpenGL...
+09:56:38.645: Using EGL/Wayland
+09:56:38.691: Initialized EGL 1.5
+09:56:38.715: Loading up OpenGL on adapter AMD AMD Radeon RX 6700 XT (navi22, LLVM 15.0.7, DRM 3.52, 6.4.3-zen1-1-zen)
+09:56:38.715: OpenGL loaded successfully, version 4.6 (Core Profile) Mesa 23.1.3, shading language 4.60
+09:56:38.753: ---------------------------------
+09:56:38.753: video settings reset:
+09:56:38.753: 	base resolution:   3840x2160
+09:56:38.753: 	output resolution: 3840x2160
+09:56:38.753: 	downscale filter:  Bicubic
+09:56:38.753: 	fps:               24000/1001
+09:56:38.753: 	format:            NV12
+09:56:38.753: 	YUV mode:          Rec. 709/Full
+09:56:38.753: NV12 texture support not available
+09:56:38.753: P010 texture support not available
+09:56:38.758: Audio monitoring device:
+09:56:38.758: 	name: Monitor of Starship/Matisse HD Audio Controller Analog Stereo
+09:56:38.758: 	id: alsa_output.pci-0000_0f_00.4.analog-stereo.monitor
+09:56:38.758: ---------------------------------
+09:56:38.765: Failed to load 'en-US' text for module: 'decklink-captions.so'
+09:56:38.771: Failed to load 'en-US' text for module: 'decklink-output-ui.so'
+09:56:38.777: A DeckLink iterator could not be created.  The DeckLink drivers may not be installed
+09:56:38.777: Failed to initialize module 'decklink.so'
+09:56:38.897: [pipewire] Available captures:
+09:56:38.897: [pipewire]     - Desktop capture
+09:56:38.924: VAAPI: Failed to initialize display in vaapi_device_h264_supported
+09:56:38.924: FFmpeg VAAPI H264 encoding not supported
+09:56:38.924: VAAPI: Failed to initialize display in vaapi_device_hevc_supported
+09:56:38.924: FFmpeg VAAPI HEVC encoding not supported
+09:56:38.958: [obs-vaapi] version: 0.4.0, gst-runtime: 1.22.4
+09:56:38.996: ---------------------------------
+09:56:38.996:   Loaded Modules:
+09:56:38.996:     text-freetype2.so
+09:56:38.996:     rtmp-services.so
+09:56:38.996:     obs-x264.so
+09:56:38.996:     obs-vst.so
+09:56:38.996:     obs-vaapi.so
+09:56:38.996:     obs-transitions.so
+09:56:38.996:     obs-outputs.so
+09:56:38.996:     obs-libfdk.so
+09:56:38.996:     obs-filters.so
+09:56:38.996:     obs-ffmpeg.so
+09:56:38.996:     linux-v4l2.so
+09:56:38.996:     linux-pulseaudio.so
+09:56:38.996:     linux-pipewire.so
+09:56:38.996:     linux-jack.so
+09:56:38.996:     linux-capture.so
+09:56:38.996:     linux-alsa.so
+09:56:38.996:     image-source.so
+09:56:38.996:     frontend-tools.so
+09:56:38.996:     decklink-output-ui.so
+09:56:38.996:     decklink-captions.so
+09:56:38.996: ---------------------------------
+09:56:38.997: ==== Startup complete ===============================================
+09:56:39.074: All scene data cleared
+09:56:39.074: ------------------------------------------------
+09:56:39.078: pulse-input: Server name: 'PulseAudio (on PipeWire 0.3.74) 15.0.0'
+09:56:39.078: pulse-input: Audio format: s32le, 48000 Hz, 2 channels
+09:56:39.078: pulse-input: Started recording from 'alsa_output.pci-0000_0f_00.4.analog-stereo.monitor' (default)
+09:56:39.079: pulse-input: Server name: 'PulseAudio (on PipeWire 0.3.74) 15.0.0'
+09:56:39.079: pulse-input: Audio format: s16le, 48000 Hz, 1 channels
+09:56:39.079: pulse-input: Started recording from 'alsa_input.usb-BLUE_MICROPHONE_Blue_Snowball_797_2020_08_17_96214-00.mono-fallback'
+09:56:39.079: PipeWire initialized
+09:56:39.079: PipeWire initialized
+09:56:39.080: PipeWire initialized
+09:56:39.080: v4l2-input: Start capture from /dev/video1
+09:56:39.080: v4l2-input: Unable to open device
+09:56:39.080: v4l2-input: Initialization failed, errno: No such file or directory
+09:56:39.081: Switched to scene 'Main'
+09:56:39.081: ------------------------------------------------
+09:56:39.081: Loaded scenes:
+09:56:39.081: - scene 'Main':
+09:56:39.081:     - source: 'Mic' (pulse_input_capture)
+09:56:39.081:         - filter: 'Noise Suppression' (noise_suppress_filter_v2)
+09:56:39.081:     - source: 'Output' (pulse_output_capture)
+09:56:39.081:     - source: 'Display1' (pipewire-desktop-capture-source)
+09:56:39.081:     - source: 'Display2' (pipewire-desktop-capture-source)
+09:56:39.081:     - source: 'Display3' (pipewire-desktop-capture-source)
+09:56:39.081:     - source: 'Cam' (v4l2_input)
+09:56:39.081: - scene 'SingleScreen':
+09:56:39.081:     - source: 'Mic' (pulse_input_capture)
+09:56:39.081:         - filter: 'Noise Suppression' (noise_suppress_filter_v2)
+09:56:39.081:     - source: 'Output' (pulse_output_capture)
+09:56:39.081:     - source: 'Display1' (pipewire-desktop-capture-source)
+09:56:39.081: - scene 'SingleScreenWithCamera':
+09:56:39.081:     - source: 'Mic' (pulse_input_capture)
+09:56:39.081:         - filter: 'Noise Suppression' (noise_suppress_filter_v2)
+09:56:39.081:     - source: 'Output' (pulse_output_capture)
+09:56:39.081:     - source: 'Display1' (pipewire-desktop-capture-source)
+09:56:39.081:     - source: 'Cam' (v4l2_input)
+09:56:39.081: - scene 'Discord':
+09:56:39.081:     - source: 'Mic' (pulse_input_capture)
+09:56:39.081:         - filter: 'Noise Suppression' (noise_suppress_filter_v2)
+09:56:39.081:     - source: 'Output' (pulse_output_capture)
+09:56:39.081:     - source: 'Display1' (pipewire-desktop-capture-source)
+09:56:39.081: - scene 'Camera':
+09:56:39.081:     - source: 'Mic' (pulse_input_capture)
+09:56:39.081:         - filter: 'Noise Suppression' (noise_suppress_filter_v2)
+09:56:39.081:     - source: 'Cam' (v4l2_input)
+09:56:39.081: ------------------------------------------------
+09:56:39.141: [pipewire] Screencast session created
+09:56:39.141: [pipewire] Screencast session created
+09:56:39.141: [pipewire] Screencast session created
+09:56:39.646: adding 21 milliseconds of audio buffering, total audio buffering is now 21 milliseconds (source: Output)
+09:56:39.646: 
+09:56:39.710: adding 42 milliseconds of audio buffering, total audio buffering is now 64 milliseconds (source: Mic)
+09:56:39.710: 
+09:56:43.621: [pipewire] Asking for desktop
+09:56:45.299: [pipewire] Asking for desktop
+09:56:46.932: [pipewire] Asking for desktop
+09:56:46.980: [pipewire] desktop selected, setting up screencast
+09:56:46.989: [pipewire] desktop selected, setting up screencast
+09:56:46.997: [pipewire] desktop selected, setting up screencast
+09:56:47.002: [pipewire] Server version: 0.3.74
+09:56:47.002: [pipewire] Library version: 0.3.74
+09:56:47.002: [pipewire] Header version: 0.3.72
+09:56:47.002: [pipewire] Created stream 0x55746df3e210
+09:56:47.002: [pipewire] Stream 0x55746df3e210 state: "connecting" (error: none)
+09:56:47.002: [pipewire] Playing stream 0x55746df3e210
+09:56:47.015: [pipewire] Stream 0x55746df3e210 state: "paused" (error: none)
+09:56:47.016: [pipewire] Negotiated format:
+09:56:47.016: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+09:56:47.016: [pipewire]     Modifier: 0x0
+09:56:47.016: [pipewire]     Size: 1920x1080
+09:56:47.016: [pipewire]     Framerate: 0/1
+09:56:47.016: [pipewire] Server version: 0.3.74
+09:56:47.016: [pipewire] Library version: 0.3.74
+09:56:47.016: [pipewire] Header version: 0.3.72
+09:56:47.016: [pipewire] Created stream 0x55746e25c500
+09:56:47.016: [pipewire] Stream 0x55746e25c500 state: "connecting" (error: none)
+09:56:47.016: [pipewire] Playing stream 0x55746e25c500
+09:56:47.016: [pipewire] Stream 0x55746e25c500 state: "paused" (error: none)
+09:56:47.016: [pipewire] Negotiated format:
+09:56:47.016: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+09:56:47.016: [pipewire]     Modifier: 0x20000001896bb03
+09:56:47.016: [pipewire]     Size: 1920x1080
+09:56:47.017: [pipewire]     Framerate: 0/1
+09:56:47.017: [pipewire] Server version: 0.3.74
+09:56:47.017: [pipewire] Library version: 0.3.74
+09:56:47.017: [pipewire] Header version: 0.3.72
+09:56:47.017: [pipewire] Created stream 0x55746e291730
+09:56:47.017: [pipewire] Stream 0x55746e291730 state: "connecting" (error: none)
+09:56:47.017: [pipewire] Playing stream 0x55746e291730
+09:56:47.017: [pipewire] Stream 0x55746e291730 state: "paused" (error: none)
+09:56:47.017: [pipewire] Stream 0x55746df3e210 state: "streaming" (error: none)
+09:56:47.022: [pipewire] Negotiated format:
+09:56:47.022: [pipewire] Negotiated format:
+09:56:47.022: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+09:56:47.022: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+09:56:47.022: [pipewire]     Modifier: 0x0
+09:56:47.022: [pipewire]     Modifier: 0x0
+09:56:47.022: [pipewire]     Size: 1280x1048
+09:56:47.022: [pipewire]     Size: 1600x900
+09:56:47.022: [pipewire]     Framerate: 0/1
+09:56:47.022: [pipewire]     Framerate: 0/1
+09:56:47.022: [pipewire] Negotiated format:
+09:56:47.022: [pipewire] Negotiated format:
+09:56:47.022: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+09:56:47.022: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+09:56:47.022: [pipewire]     Modifier: 0x20000001896bb03
+09:56:47.022: [pipewire]     Modifier: 0x20000001896bb03
+09:56:47.022: [pipewire]     Size: 1280x1048
+09:56:47.022: [pipewire]     Size: 1600x900
+09:56:47.022: [pipewire]     Framerate: 0/1
+09:56:47.022: [pipewire]     Framerate: 0/1
+09:56:47.031: [pipewire] Stream 0x55746e25c500 state: "streaming" (error: none)
+09:56:47.031: [pipewire] Stream 0x55746e291730 state: "streaming" (error: none)

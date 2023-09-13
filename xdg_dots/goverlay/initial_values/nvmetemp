@@ -1,0 +1,1 @@
+exec=sensors | grep Composite | cut -c 15-22
